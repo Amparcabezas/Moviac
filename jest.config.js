@@ -4,3 +4,4 @@ module.exports = {
     '^.+\\.vue$': 'vue-jest'
   }
 }
+
